@@ -4,5 +4,10 @@ public class add(a+b){
 public class sub(a-b){
      return a-b;
 }
+ 
 public class mul(a*b){
      return a*b;
+}
+public class divide(a/b){
+     return a/b;
+}
